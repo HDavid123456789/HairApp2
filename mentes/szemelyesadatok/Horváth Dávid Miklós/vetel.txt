@@ -1,0 +1,11 @@
+Ferfi MVSZ (Rövid);1590;1;true
+2021-11-11 08:22:39;106;0
+Szakall es bajuszigazitas (Rövid);680;1;true
+Hajpakolas (Rövid);390;1;true
+2021-11-11 08:24:22;177;0
+Ferfi MVSZ (Hosszú);1890;1;true
+2021-11-11 08:51:35;303;0
+Ferfi MVSZ (Hosszú);1890;2;true
+2021-11-11 13:20:28;555;0
+Hajfonas (Félhosszú);590;1;true
+2021-11-12 15:18:45;594;0

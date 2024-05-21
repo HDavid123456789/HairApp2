@@ -1,0 +1,14 @@
+Ferfi MVSZ;1590;-;1890;-
+Szakall es bajuszigazitas;680;-;-;-
+Noi MVSZ;2290;3290;3990;4990
+Hajsutes;390;490;590;890
+Alkalmi frizura;-;5990;6990;7990
+Hajfonas;-;590;890;1090
+Kreativ hajkeszites;2990;3990;4990;5990
+Hajszeszes kezeles;390;390;390;390
+Hajpakolas;390;490;590;690
+Alap hajfestes 60g-ig;3490;3490;3490;3490
+plusz festek 1g;49;49;49;49
+melir 1db;139;139;139;139
+Kreativ hajfestes;5990;5990;5990;5990
+Hozott anyag felhordasa;1990;1990;1990;1990

@@ -1,0 +1,13 @@
+Ferfi MVSZ (Rövid);1590;1;true
+2021-11-11 08:22:45;106;0
+Ferfi MVSZ (Hosszú);1890;1;true
+plusz festek 1g (Félhosszú);49;1;true
+2021-11-11 08:51:45;235;0
+Noi MSZ (Rövid);1890;1;true
+2021-11-11 08:52:25;361;0
+Ferfi MVSZ (Rövid);1590;1;true
+2021-11-11 12:34:29;414;50
+Hozott anyag felhordasa (Extrahosszú);1990;2;true
+2021-11-11 12:47:23;679;0
+Próba (egyedi címke);1920;1;false
+2021-11-11 15:14:10;807;0
